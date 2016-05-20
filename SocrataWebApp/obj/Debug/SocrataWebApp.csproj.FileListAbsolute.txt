@@ -1,0 +1,10 @@
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SocrataWebApp.dll.config
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SocrataWebApp.dll
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SocrataWebApp.pdb
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\obj\Debug\SocrataWebApp.csprojResolveAssemblyReference.cache
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\obj\Debug\SocrataWebApp.dll
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\obj\Debug\SocrataWebApp.pdb
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\Newtonsoft.Json.dll
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SODA.dll
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\Newtonsoft.Json.xml
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SODA.xml

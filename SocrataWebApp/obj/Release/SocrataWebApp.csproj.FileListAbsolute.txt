@@ -1,0 +1,6 @@
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SocrataWebApp.dll.config
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SocrataWebApp.dll
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\bin\SocrataWebApp.pdb
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\obj\Release\SocrataWebApp.csprojResolveAssemblyReference.cache
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\obj\Release\SocrataWebApp.dll
+c:\users\mccallp\documents\visual studio 2015\Projects\SocrataOpenData\SocrataWebApp\obj\Release\SocrataWebApp.pdb
